@@ -1,0 +1,15 @@
+
+"primeiro exercicio"
+$dobro1= $numero1 * 2
+$metade1 = $numero2 / 2
+$resultado1 = $dobro1 * $metade1
+"o produto do dobro do primeiro com a metade do segundo é $resultado1"
+
+"segundo exercicio"
+$resultado2 = 3 * $numero1 + $numero3
+"a soma do triplo do primeiro com terceiro é $resultado2"
+
+"terceiro exercio"
+$resultado3 = [math]::pow(2,3)
+"o terceiro ao cubo é $resultado3"
+
