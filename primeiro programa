@@ -4,5 +4,5 @@ $variavel = "valor qualquer que ficara armazenado na variavel"
 write-output $variavel
 $numero=2.3
 $idade=18
-Write-Output "Numero : $numero"
-Write-Output "Idade : $idad
+"Numero : $numero"
+"Idade : $idade"
