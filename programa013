@@ -11,5 +11,5 @@ $resultado2 = 3 * $numero1 + $numero3
 
 "terceiro exercio"
 $resultado3 = [math]::pow(2,3)
-"o terceiro ao cubo é $resultado3"
+"o 3° número ao cubo é: $resultado3"
 
